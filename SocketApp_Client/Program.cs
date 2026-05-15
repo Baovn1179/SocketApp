@@ -25,8 +25,8 @@ namespace SocketApp
 
                 await Client.SendAsync(Encoding.UTF8.GetBytes(sendmsg));
 
-                string msg = Encoding.UTF8.GetString(buffer);
                 await Client.ReceiveAsync(buffer);
+                string msg = Encoding.UTF8.GetString(buffer);
                 Console.WriteLine(msg);
 
                 if (msg == "out")
