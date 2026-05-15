@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\bin\Debug\net10.0\SocketApp_Client.exe
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\bin\Debug\net10.0\SocketApp_Client.deps.json
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\bin\Debug\net10.0\SocketApp_Client.runtimeconfig.json
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\bin\Debug\net10.0\SocketApp_Client.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\bin\Debug\net10.0\SocketApp_Client.pdb
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.sourcelink.json
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\refint\SocketApp_Client.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.pdb
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\SocketApp_Client.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp_Client\obj\Debug\net10.0\ref\SocketApp_Client.dll

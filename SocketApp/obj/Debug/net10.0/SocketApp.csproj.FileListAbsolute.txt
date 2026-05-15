@@ -12,3 +12,4 @@ C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\refint
 C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.pdb
 C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\ref\SocketApp.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.sourcelink.json

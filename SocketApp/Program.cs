@@ -35,6 +35,10 @@ namespace SocketApp
         {
             Clients.Add(Client);
             Log($"{Client.RemoteEndPoint} has joined to the server.");
+            await Broadcast($"{Client.RemoteEndPoint} has joined to the server.");
+
+
+            await SendMsg(Client, $"Server[{Server.LocalEndPoint}] >>> Chao mung ban da den voi server");
 
             while (true)
             {
