@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\bin\Debug\net10.0\SocketApp.exe
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\bin\Debug\net10.0\SocketApp.deps.json
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\bin\Debug\net10.0\SocketApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\bin\Debug\net10.0\SocketApp.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\bin\Debug\net10.0\SocketApp.pdb
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\refint\SocketApp.dll
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.pdb
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\SocketApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SocketApp\SocketApp\obj\Debug\net10.0\ref\SocketApp.dll
