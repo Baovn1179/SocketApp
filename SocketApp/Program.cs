@@ -40,9 +40,29 @@ namespace SocketApp
 
             await SendMsg(Client, $"Server[{Server.LocalEndPoint}] >>> Chao mung ban da den voi server");
 
+            byte[] buffer = new byte[2048];
+
             while (true)
             {
+                int r = await Client.ReceiveAsync(buffer);
+                Console.WriteLine(r);
+                string msg = Encoding.UTF8.GetString(buffer);
+                if (r == 0)
+                {
+                    await Broadcast($"Nguoi dung {Client.RemoteEndPoint} da roi khoi server.");
+                    for (int idx = 0; idx < Clients.Count; idx++)
+                    {
+                        Socket c = Clients[idx];
+                        if (c.RemoteEndPoint == Client.RemoteEndPoint)
+                        {
+                            await SendMsg(Client, "out");
+                            Clients.RemoveAt(idx);
+                            break;
+                        }
+                    }
+                } 
 
+                    
             }
         } 
 

@@ -19,8 +19,22 @@ namespace SocketApp
             byte[] buffer = new byte[2048];
             while (true)
             {
+                Console.Write("Chat >>> ");
+                string sendmsg = Console.ReadLine();
+
+
+                await Client.SendAsync(Encoding.UTF8.GetBytes(sendmsg));
+
+                string msg = Encoding.UTF8.GetString(buffer);
                 await Client.ReceiveAsync(buffer);
-                Console.WriteLine(Encoding.UTF8.GetString(buffer));
+                Console.WriteLine(msg);
+
+                if (msg == "out")
+                {
+                    Console.WriteLine("Out khoi server");
+                    Client.Shutdown(SocketShutdown.Both);
+                    Client.Close();
+                }
             }
         }
 
